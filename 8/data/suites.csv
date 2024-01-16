@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 16 22:40:17 GMT 2024","Tue Jan 16 22:40:24 GMT 2024","6899","Surefire suite","Surefire test","com.qacart.todo.testcases.ToDoTests","com.qacart.todo.testcases.ToDoTests","shouldBeAbleToAddToDo","Should be able to add new add to do",""
+"passed","Tue Jan 16 22:40:17 GMT 2024","Tue Jan 16 22:40:25 GMT 2024","7685","Surefire suite","Surefire test","com.qacart.todo.testcases.ToDoTests","com.qacart.todo.testcases.ToDoTests","shouldBeAbleToDeleteAToDo","Should be able to remove a to do",""
+"passed","Tue Jan 16 22:40:17 GMT 2024","Tue Jan 16 22:40:21 GMT 2024","3615","Surefire suite","Surefire test","com.qacart.todo.testcases.UserTests","com.qacart.todo.testcases.UserTests","shouldBeAbleToRegisterToTheApplication","Should be able to signup",""
